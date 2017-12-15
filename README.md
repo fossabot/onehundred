@@ -1,4 +1,6 @@
 # 💯 - onehundred
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Flxe%2Fonehundred.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Flxe%2Fonehundred?ref=badge_shield)
+
 
 ![](https://img.shields.io/badge/no-bugs-brightgreen.svg) 
 ![](https://img.shields.io/badge/coverage-%F0%9F%92%AF-green.svg)
@@ -37,3 +39,7 @@ Then, use it in your tests (alongside with a good test tool, such as [no-bugs](h
 ```
 
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Flxe%2Fonehundred.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Flxe%2Fonehundred?ref=badge_large)
